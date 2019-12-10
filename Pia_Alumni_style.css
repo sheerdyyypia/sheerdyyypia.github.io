@@ -1,0 +1,57 @@
+.topH{
+	background: #ff9999;
+	width: 1358px;
+	height: 75px; 
+	border-bottom: 1px solid #133783;
+	margin-top: 1px;
+	z-index: 1px;
+	position: absolute;
+}
+
+.uic{
+
+	height: 77px;
+	width: auto;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	z-index: 2;
+	position: absolute;
+}
+h2{
+	font-size: 20px;
+	margin-left: 100px;
+	margin-top: 25px;
+}
+h3{
+	font-size: 20px;
+	margin-right: 1358px;
+	margin-top: 25px;
+}
+
+
+
+.rightdiv{
+
+	background: #ffb3b3;
+	width: 300px;
+	height: 350px; 
+	border-bottom: 1px solid #133783;
+	margin-top: 300px;
+	z-index: 1px;
+	position: absolute;
+	font-size: 20px;
+
+
+}
+
+.home1{
+
+	background: #ffb3b3;
+	width: 300px;
+	height: 225px; 
+	border-bottom: 1px solid #133783;
+	margin-left: 0px;
+	z-index: 1px;
+	margin-top: 77px;
+	position: absolute;
+}
